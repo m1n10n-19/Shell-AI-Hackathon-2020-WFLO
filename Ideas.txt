@@ -1,0 +1,38 @@
+no_of_turbines = 50
+mu = 50
+iteration = 0
+x = 0.9
+c = 40
+iterations = 2000
+Dm = 400
+tries_retaining_parents = 50
+tries_changing_parents = 20
+no_of_mutation_tries = 100: reached 516 in 290 iterations
+
+no_of_turbines = 50
+mu = 50
+iteration = 0
+x = 0.8
+c = 40
+iterations = 2000
+Dm = 400
+tries_retaining_parents = 50
+tries_changing_parents = 20
+no_of_mutation_tries = 200 : reached 514 in 290 iterations
+
+change ideas for GA_mish:
+do mutation only if it improves for a specific number of digits-basically change no_retained
+try decreasing x below 0.5
+
+what actually causes increase in aep?
+
+
+
+
+
+
+
+
+
+
+
